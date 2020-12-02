@@ -1,0 +1,15 @@
+
+.header-container {
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+}
+
+.header-links {
+    display: flex;
+}
+
+.header-spacer {
+    width: 12px;
+}

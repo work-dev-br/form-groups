@@ -1,0 +1,21 @@
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-divider {
+    background-color: lightslategray;
+    width: 100%;
+    height: 1px;
+}
+
+.footer-spacer {
+    width: 12px;
+}

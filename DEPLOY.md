@@ -7,7 +7,7 @@
     ngh --branch=gh-pages
 
 # URL do site publicado no GitHub Pages:
-    https://work-dev-br.github.io/work-dev-web/
+    https://work-dev-br.github.io/form-groups/
 
 
 # INSTALAÇÃO INICIAL DO GH-PAGES:
